@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.main {
+  background: rgb(245, 241, 233);
+  width: 600px;
+  height: 500px;
+}
