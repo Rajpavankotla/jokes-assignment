@@ -15,3 +15,7 @@ Navigate to the directory run
 ### Log in
 
 Use the credentials provided by clicking credentials button and then click log in
+
+### Link
+
+Here is the link to the application https://myjokes-assignment.netlify.app/
